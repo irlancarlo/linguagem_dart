@@ -1,5 +1,5 @@
 # Linguagem dart
-#### Entendo a linguagem dart.
+#### Entendo a linguagem dart
 
 * Tipos de variáveis
 * Entenda Arrays
@@ -21,6 +21,10 @@
 * Mixins
 * Coleções - listas
 * Coleções - mapas
+
+#### Para executar os exemplos online.
+
+[DartPad](https://dartpad.dev/?null_safety=true)
 
 ## License
 
